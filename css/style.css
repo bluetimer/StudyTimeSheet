@@ -1,0 +1,20 @@
+body {
+    padding-top: 100px;
+   /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-brand {
+    padding-top: 5px;
+    color: white;	
+}
+.text-center {
+    padding-right: 70px;
+}
+
+.submit-button {
+    padding-left: 70px;
+}
+footer {
+    padding-top: 550px;
+    margin: 50px 0;
+}
